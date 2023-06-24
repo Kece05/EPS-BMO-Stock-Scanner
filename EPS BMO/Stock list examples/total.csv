@@ -1,0 +1,477 @@
+Symbol,Sector,SM20,SM50,EPS TR,Price Change
+CGC,Healthcare | Drug Manufacturers - Specialty Generic | Canada,-1.19%,-3.17%,Perfect,-17.15%
+ABBV,Healthcare | Drug Manufacturers - General | USA,-2.97%,-8.03%,Ok,2.83%
+CYBR,Technology | Software - Infrastructure | Israel,11.09%,11.01%,Bad,-2.63%
+DUK,Utilities | Utilities - Regulated Electric | USA,-3.24%,-2.77%,Bad,-1.64%
+PEP,Consumer Defensive | Beverages - Non-Alcoholic | USA,-0.49%,-3.90%,Ok,0.95%
+PM,Consumer Defensive | Tobacco | USA,-1.10%,-0.47%,Ok,0.72%
+WTW,Financial | Insurance Brokers | United Kingdom,1.50%,3.58%,Ok,-7.06%
+HIMX,Technology | Semiconductors | Taiwan,5.89%,13.74%,Ok,-4.48%
+LITE,Technology | Communication Equipment | USA,3.00%,9.97%,Ok,-1.42%
+MT,Basic Materials | Steel | Luxembourg,-5.69%,2.46%,Good,0.41%
+HII,Industrials | Aerospace Defense | USA,2.42%,-0.48%,Ok,-2.33%
+KIM,Real Estate | REIT - Retail | USA,1.11%,1.80%,0.245,-3.38%
+AZN,Healthcare | Drug Manufacturers - General | United Kingdom,-4.35%,-5.39%,Ok,4.75%
+NSP,Industrials | Staffing Employment Services | USA,-0.51%,-1.94%,Ok,4.33%
+RL,Consumer Cyclical | Apparel Manufacturing | USA,-3.99%,2.57%,Perfect,0.46%
+K,Consumer Defensive | Packaged Foods | USA,-1.82%,-5.08%,Good,-0.10%
+CCJ,Energy | Uranium | Canada,2.13%,12.44%,-2,4.39%
+BAX,Healthcare | Medical Instruments Supplies | USA,0.70%,-7.06%,Ok,-12.13%
+APO,Financial | Asset Management | USA,6.22%,11.17%,Good,-7.43%
+TPR,Consumer Cyclical | Luxury Goods | USA,-2.11%,7.16%,Ok,3.47%
+NNN,Real Estate | REIT - Retail | USA,-0.57%,1.09%,0.576,-1.92%
+BWA,Consumer Cyclical | Auto Parts | USA,2.59%,8.74%,Perfect,2.83%
+THC,Healthcare | Medical Care Facilities | USA,2.42%,10.88%,Perfect,3.92%
+IPG,Communication Services | Advertising Agencies | USA,4.14%,9.85%,Ok,-2.75%
+PATK,Industrials | Building Products Equipment | USA,6.61%,16.26%,Perfect,0.40%
+SPGI,Financial | Financial Data Stock Exchanges | USA,-0.76%,3.25%,Bad,-0.60%
+MAS,Industrials | Building Products Equipment | USA,4.06%,8.10%,Bad,-0.22%
+TU,Communication Services | Telecom Services | Canada,-1.30%,1.18%,Ok,-3.74%
+SEE,Consumer Cyclical | Packaging Containers | USA,-0.66%,2.24%,Ok,-6.55%
+WEX,Technology | Software - Infrastructure | USA,3.12%,9.45%,Ok,7.06%
+BRKR,Healthcare | Medical Devices | USA,1.38%,4.56%,Good,1.33%
+CS,Financial | Banks - Diversified | Switzerland,2.07%,8.17%,Perfect,-15.64%
+TRI,Industrials | Consulting Services | Canada,-0.69%,0.94%,Ok,-1.96%
+ITT,Industrials | Specialty Industrial Machinery | USA,2.77%,8.12%,Ok,-3.10%
+HLT,Consumer Cyclical | Lodging | USA,4.63%,8.32%,Good,2.39%
+TTGT,Communication Services | Internet Content Information | USA,1.10%,7.65%,Ok,-15.26%
+DBD,Technology | Software - Application | USA,20.24%,40.98%,-3.048,-14.44%
+MDU,Basic Materials | Building Materials | USA,-1.03%,-0.82%,Bad,-0.99%
+ARES,Financial | Asset Management | USA,6.86%,14.67%,Ok,-2.53%
+WMG,Communication Services | Entertainment | USA,2.23%,4.44%,Perfect,-4.28%
+TPX,"Consumer Cyclical | Furnishings, Fixtures Appliances | USA",2.96%,14.36%,Ok,1.10%
+FAF,Financial | Insurance - Specialty | USA,1.50%,9.64%,Good,-6.50%
+TIXT,Technology | Software - Infrastructure | Canada,-1.63%,6.58%,Ok,-3.03%
+CIGI,Real Estate | Real Estate Services | Canada,6.07%,13.99%,0.601,6.53%
+NSIT,Technology | Information Technology Services | USA,0.56%,7.05%,Good,11.47%
+GTES,Industrials | Specialty Industrial Machinery | USA,1.96%,9.71%,Perfect,6.17%
+ESMT,Technology | Software - Infrastructure | USA,2.03%,9.96%,Ok,3.22%
+SSTK,Communication Services | Internet Content Information | USA,7.94%,24.41%,Perfect,4.62%
+MSGE,Communication Services | Entertainment | USA,8.57%,14.90%,Perfect,11.68%
+PDS,Energy | Oil Gas Drilling | Canada,-9.64%,-6.64%,Perfect,-13.91%
+CSII,Healthcare | Medical Devices | USA,-3.86%,-3.60%,Good,48.38%
+VERU,Healthcare | Drug Manufacturers - Specialty Generic | USA,-13.94%,-8.09%,Perfect,-22.61%
+NETI,Industrials | Marine Shipping | Monaco,-4.04%,-0.37%,0.455,5.19%
+BYRN,Industrials | Aerospace Defense | USA,0.94%,9.96%,Good,-8.84%
+LVO,Communication Services | Entertainment | USA,20.79%,39.65%,Bad,2.11%
+OESX,Industrials | Electrical Equipment Parts | USA,0.14%,-7.61%,Perfect,1.10%
+CVS,Healthcare | Healthcare Plans | USA,1.56%,-4.77%,Ok,3.47%
+D,Utilities | Utilities - Diversified | USA,-4.43%,-2.56%,Ok,-3.30%
+TEVA,Healthcare | Drug Manufacturers - Specialty Generic | Israel,-7.09%,2.22%,Ok,-8.91%
+UAA,Consumer Cyclical | Apparel Manufacturing | USA,-5.70%,4.49%,Perfect,-8.18%
+VSH,Technology | Semiconductors | USA,-8.22%,-5.70%,Good,-12.20%
+CME,Financial | Financial Data Stock Exchanges | USA,6.70%,8.55%,Ok,5.42%
+MCFT,Consumer Cyclical | Recreational Vehicles | USA,17.58%,25.43%,Good,9.40%
+EMR,Industrials | Specialty Industrial Machinery | USA,-6.04%,-8.56%,Ok,-5.69%
+EQNR,Energy | Oil Gas Integrated | Norway,2.97%,-5.73%,Good,7.10%
+YUM,Consumer Cyclical | Restaurants | USA,2.13%,1.99%,Bad,1.61%
+CDW,Technology | Information Technology Services | USA,2.74%,6.87%,Ok,1.19%
+ETN,Industrials | Specialty Industrial Machinery | Ireland,4.82%,5.60%,Ok,2.67%
+COTY,Consumer Defensive | Household Personal Products | USA,3.85%,14.96%,Perfect,-1.84%
+BXMT,Real Estate | REIT - Mortgage | USA,-1.98%,-0.69%,Good,-4.19%
+CRNT,Technology | Communication Equipment | Israel,-9.46%,-5.19%,0.5,-11.93%
+PAG,Consumer Cyclical | Auto Truck Dealerships | USA,10.20%,12.61%,Good,1.21%
+COHR,Technology | Scientific Technical Instruments | USA,-0.96%,10.91%,Ok,-2.73%
+BG,Consumer Defensive | Farm Products | USA,-0.31%,0.26%,Good,-0.78%
+FOXA,Communication Services | Broadcasting | USA,7.57%,11.56%,Ok,4.38%
+RDWR,Technology | Software - Infrastructure | Israel,-1.54%,1.27%,0.657,-7.08%
+NYT,Communication Services | Publishing | USA,18.33%,20.19%,Perfect,12.04%
+TTE,Energy | Oil Gas Integrated | France,-3.15%,-1.28%,Ok,-1.39%
+UBER,Technology | Software - Application | USA,20.65%,31.32%,Perfect,5.53%
+TRMB,Technology | Scientific Technical Instruments | USA,-0.90%,2.25%,Ok,-5.69%
+PFGC,Consumer Defensive | Food Distribution | USA,-0.35%,0.17%,Good,-3.07%
+CPRI,Consumer Cyclical | Apparel Manufacturing | United Kingdom,-21.59%,-16.03%,Perfect,-23.58%
+REYN,Consumer Cyclical | Packaging Containers | USA,-6.99%,-9.31%,Ok,-4.91%
+RITM,Real Estate | REIT - Mortgage | USA,4.34%,7.64%,Good,3.03%
+BDC,Industrials | Electrical Equipment Parts | USA,11.23%,15.00%,Good,7.41%
+SITC,Real Estate | REIT - Retail | USA,2.96%,2.89%,Bad,0.44%
+EPC,Consumer Defensive | Household Personal Products | USA,4.92%,6.98%,Ok,3.42%
+GPRE,Basic Materials | Specialty Chemicals | USA,13.13%,15.97%,Perfect,7.72%
+CRTO,Communication Services | Advertising Agencies | France,17.40%,26.03%,Perfect,3.46%
+PERI,Communication Services | Internet Content Information | Israel,-2.81%,8.38%,Perfect,-8.44%
+CMRE,Industrials | Marine Shipping | Monaco,0.85%,6.61%,Ok,-2.50%
+CRNC,Technology | Software - Application | USA,19.69%,38.28%,Perfect,2.08%
+RSVR,Communication Services | Entertainment | USA,4.37%,11.28%,Perfect,-1.50%
+FMAO,Financial | Banks - Regional | USA,5.11%,5.60%,Ok,-0.17%
+MHH,Industrials | Staffing Employment Services | USA,-12.43%,-9.69%,Bad,-9.94%
+RDCM,Communication Services | Telecom Services | Israel,-3.03%,0.15%,Bad,1.25%
+PYPD,Healthcare | Biotechnology | Israel,-14.75%,-6.97%,Ok,-12.81%
+ENB,Energy | Oil Gas Midstream | Canada,-4.20%,-2.23%,Bad,3.26%
+NWL,Consumer Defensive | Household Personal Products | USA,-6.28%,2.77%,Perfect,1.16%
+HMC,Consumer Cyclical | Auto Manufacturers | Japan,0.96%,2.60%,Bad,2.40%
+WPC,Real Estate | REIT - Diversified | USA,-3.41%,-0.27%,0.506,4.63%
+MGA,Consumer Cyclical | Auto Parts | Canada,0.50%,6.17%,Good,-16.18%
+ESNT,Financial | Mortgage Finance | Bermuda,1.19%,6.24%,Perfect,-0.24%
+FTS,Utilities | Utilities - Regulated Electric | Canada,-3.77%,-2.33%,Bad,4.22%
+PRLB,Industrials | Metal Fabrication | USA,3.10%,12.20%,Perfect,13.14%
+GPN,Industrials | Specialty Business Services | USA,0.11%,7.12%,Ok,5.59%
+SPB,Consumer Defensive | Household Personal Products | USA,-1.21%,3.96%,0.458,-0.16%
+IQV,Healthcare | Diagnostics Research | USA,0.99%,6.36%,Ok,-3.24%
+COOP,Financial | Mortgage Finance | USA,-1.39%,3.07%,Perfect,4.30%
+CHKP,Technology | Software - Application | Israel,-1.17%,-1.35%,Ok,0.87%
+TDC,Technology | Information Technology Services | USA,-0.18%,1.01%,Perfect,15.49%
+OWL,Financial | Asset Management | USA,1.02%,10.31%,Ok,0.47%
+MNDY,Technology | Software - Application | Israel,2.20%,11.04%,Bad,10.90%
+ROIV,Healthcare | Biotechnology | United Kingdom,-6.17%,2.55%,Perfect,1.76%
+VNO,Real Estate | REIT - Office | USA,-1.08%,2.18%,0.168,1.56%
+THS,Consumer Defensive | Packaged Foods | USA,1.05%,0.85%,-0.196,0.04%
+ALX,Real Estate | REIT - Retail | USA,-2.61%,-1.31%,Perfect,0.92%
+KO,Consumer Defensive | Beverages - Non-Alcoholic | USA,0.30%,-2.47%,Ok,-1.67%
+TRP,Energy | Oil Gas Midstream | Canada,-1.72%,-0.07%,Ok,1.49%
+ZTS,Healthcare | Drug Manufacturers - Specialty Generic | USA,-0.72%,4.76%,Ok,5.37%
+MTLS,Technology | Software - Application | Belgium,0.25%,7.16%,Ok,-14.73%
+TRTN,Industrials | Rental Leasing Services | Bermuda,2.38%,4.66%,Ok,-7.08%
+MAR,Consumer Cyclical | Lodging | USA,2.28%,8.12%,Good,3.96%
+ECL,Basic Materials | Specialty Chemicals | USA,-2.85%,-1.23%,Ok,7.11%
+IPGP,Technology | Semiconductor Equipment Materials | USA,1.27%,10.66%,Good,11.56%
+HRI,Industrials | Rental Leasing Services | USA,1.90%,10.15%,Bad,-7.48%
+GTX,Consumer Cyclical | Auto Parts | Switzerland,5.59%,9.08%,Bad,-2.01%
+LDOS,Technology | Information Technology Services | USA,3.11%,-1.64%,Ok,-5.42%
+QSR,Consumer Cyclical | Restaurants | Canada,2.11%,3.31%,Good,-2.73%
+USAC,Energy | Oil Gas Equipment Services | USA,1.84%,6.30%,Perfect,0.00%
+GEO,Real Estate | REIT - Healthcare Facilities | USA,4.37%,6.38%,0.572,-16.23%
+ENTG,Technology | Semiconductor Equipment Materials | USA,4.01%,13.75%,Bad,0.24%
+CAE,Industrials | Aerospace Defense | Canada,2.72%,8.27%,Bad,5.04%
+GFS,Technology | Semiconductors | USA,9.45%,11.75%,Perfect,8.44%
+PKI,Healthcare | Diagnostics Research | USA,1.19%,0.17%,Good,-0.53%
+HWM,Industrials | Specialty Industrial Machinery | USA,2.46%,4.28%,Ok,4.72%
+TRU,Industrials | Consulting Services | USA,-0.83%,8.78%,Bad,-1.91%
+WCC,Industrials | Industrial Distribution | USA,6.21%,15.08%,Good,8.20%
+DAVA,Technology | Software - Infrastructure | United Kingdom,0.09%,8.19%,Perfect,-12.73%
+FELE,Industrials | Specialty Industrial Machinery | USA,4.03%,9.93%,Ok,3.59%
+BTU,Energy | Thermal Coal | USA,-4.26%,-6.23%,Good,13.33%
+LCII,Consumer Cyclical | Recreational Vehicles | USA,3.98%,12.27%,Perfect,0.35%
+SAFE,Real Estate | REIT - Diversified | USA,-3.54%,4.77%,Bad,-0.37%
+UE,Real Estate | REIT - Diversified | USA,1.33%,5.46%,0.566,0.38%
+TGH,Industrials | Rental Leasing Services | Bermuda,0.60%,5.96%,Good,-6.02%
+EMBC,Healthcare | Medical Instruments Supplies | USA,8.51%,1.31%,Good,12.56%
+AHH,Real Estate | REIT - Diversified | USA,1.54%,5.03%,Bad,6.57%
+PAX,Financial | Asset Management | Cayman Islands,-0.79%,5.75%,Perfect,8.78%
+UTL,Utilities | Utilities - Diversified | USA,-0.69%,-0.41%,Ok,-0.19%
+ASC,Energy | Oil Gas Midstream | Bermuda,14.20%,14.71%,Good,9.69%
+QIPT,Healthcare | Medical Devices | USA,7.38%,20.81%,Bad,-0.47%
+SQNS,Technology | Semiconductors | France,-3.56%,-7.03%,0.538,-8.58%
+REUN,Healthcare | Biotechnology | Canada,-1.80%,4.84%,Perfect,-3.47%
+KHC,Consumer Defensive | Packaged Foods | USA,-0.24%,-1.27%,Good,0.63%
+TTD,Technology | Software - Application | USA,0.43%,4.20%,-0.154,32.81%
+BIIB,Healthcare | Drug Manufacturers - General | USA,0.28%,1.16%,Ok,-3.49%
+GLDD,Industrials | Engineering Construction | USA,0.01%,3.29%,0.412,-8.47%
+SUN,Energy | Oil Gas Refining Marketing | USA,0.97%,5.49%,Perfect,0.30%
+CIM,Real Estate | REIT - Mortgage | USA,0.13%,6.78%,Bad,-3.39%
+GOLD,Basic Materials | Gold | Canada,-5.81%,-1.84%,Good,-3.59%
+CHEF,Consumer Defensive | Food Distribution | USA,0.47%,4.72%,Perfect,0.64%
+GNRC,Industrials | Specialty Industrial Machinery | USA,6.69%,18.15%,Ok,8.00%
+ADI,Technology | Semiconductors | USA,5.56%,7.86%,Ok,7.47%
+R,Industrials | Rental Leasing Services | USA,1.85%,8.47%,Perfect,3.17%
+SFL,Industrials | Marine Shipping | Bermuda,1.79%,6.70%,Perfect,0.48%
+HL,Basic Materials | Gold | USA,-7.06%,-2.73%,Perfect,-9.38%
+ACRE,Real Estate | REIT - Mortgage | USA,-0.69%,3.86%,Ok,1.60%
+LAD,Consumer Cyclical | Auto Truck Dealerships | USA,8.49%,21.09%,Ok,-8.24%
+MLM,Basic Materials | Building Materials | USA,0.80%,1.51%,Ok,7.47%
+PTN,Healthcare | Biotechnology | USA,-20.75%,-10.15%,Ok,-0.32%
+OC,Industrials | Building Products Equipment | USA,8.94%,12.58%,Good,0.09%
+ICL,Basic Materials | Agricultural Inputs | Israel,-3.46%,-1.52%,Perfect,-0.65%
+RPRX,Healthcare | Biotechnology | USA,-1.36%,-4.17%,Bad,-0.82%
+WAT,Healthcare | Diagnostics Research | USA,0.99%,0.09%,Ok,-0.71%
+RBLX,Communication Services | Electronic Gaming Multimedia | USA,-2.81%,9.17%,Perfect,26.38%
+WAB,Industrials | Railroads | USA,-0.20%,1.22%,Good,2.08%
+TPG,Financial | Asset Management | USA,0.17%,3.80%,Good,6.24%
+SITE,Industrials | Industrial Distribution | USA,6.84%,19.08%,Perfect,1.81%
+CHH,Consumer Cyclical | Lodging | USA,1.55%,5.72%,Ok,3.40%
+PSN,Industrials | Specialty Industrial Machinery | USA,4.24%,0.83%,Ok,-4.32%
+TMHC,Consumer Cyclical | Residential Construction | USA,3.46%,10.60%,Good,1.75%
+AVNT,Basic Materials | Specialty Chemicals | USA,-2.16%,5.11%,Ok,9.73%
+NVMI,Technology | Semiconductor Equipment Materials | Israel,-2.06%,3.11%,Good,1.56%
+SAH,Consumer Cyclical | Auto Truck Dealerships | USA,14.39%,20.31%,Ok,-1.06%
+SABR,Technology | Information Technology Services | USA,-2.66%,5.01%,Bad,-19.38%
+IDCC,Communication Services | Telecom Services | USA,6.23%,24.37%,Perfect,2.17%
+DNUT,Consumer Defensive | Grocery Stores | USA,0.43%,-0.05%,Bad,6.78%
+KRNT,Industrials | Specialty Industrial Machinery | Israel,5.15%,9.80%,Perfect,-9.25%
+CLBT,Technology | Software - Infrastructure | Israel,1.26%,11.52%,0.25,13.90%
+HCSG,Healthcare | Medical Care Facilities | USA,-4.36%,-2.71%,Bad,7.12%
+WKME,Technology | Software - Application | Israel,6.00%,9.30%,Ok,5.77%
+CEVA,Technology | Semiconductors | USA,3.07%,16.58%,Perfect,0.03%
+KPTI,Healthcare | Biotechnology | USA,1.22%,-3.34%,0.514,10.24%
+ESEA,Industrials | Marine Shipping | Greece,-3.35%,-1.26%,Bad,-5.60%
+SO,Utilities | Utilities - Regulated Electric | USA,-0.79%,-3.47%,Ok,-1.36%
+CROX,Consumer Cyclical | Footwear Accessories | USA,3.63%,12.66%,Good,4.40%
+ZBRA,Technology | Communication Equipment | USA,3.38%,15.07%,Ok,1.96%
+VGR,Consumer Defensive | Tobacco | USA,2.18%,7.16%,Bad,9.08%
+ARCH,Energy | Thermal Coal | USA,-0.34%,1.70%,Ok,9.66%
+ATHM,Communication Services | Internet Content Information | China,0.79%,7.25%,Good,-1.78%
+ETR,Utilities | Utilities - Diversified | USA,0.15%,-2.72%,Ok,0.67%
+NRG,Utilities | Utilities - Independent Power Producers | USA,5.89%,7.75%,-0.625,-4.88%
+ITGR,Healthcare | Medical Devices | USA,-0.09%,1.83%,Bad,3.71%
+VMC,Basic Materials | Building Materials | USA,7.43%,8.46%,Ok,-5.16%
+KBR,Industrials | Engineering Construction | USA,2.00%,0.99%,Ok,7.42%
+FUN,Consumer Cyclical | Leisure | USA,1.42%,4.40%,Bad,4.09%
+POR,Utilities | Utilities - Regulated Electric | USA,-0.64%,-2.43%,Bad,2.29%
+CVE,Energy | Oil Gas Integrated | Canada,0.20%,2.40%,Bad,-4.85%
+CAMT,Technology | Semiconductor Equipment Materials | Israel,-0.68%,8.73%,Ok,3.44%
+HAS,Consumer Cyclical | Leisure | USA,-4.20%,-4.30%,Ok,0.14%
+SAGE,Healthcare | Biotechnology | USA,1.64%,7.38%,Ok,-0.11%
+SHAK,Consumer Cyclical | Restaurants | USA,3.41%,14.02%,Bad,-3.44%
+IRDM,Communication Services | Telecom Services | USA,-3.20%,2.81%,-1.333,3.89%
+TSEM,Technology | Semiconductors | Israel,-3.72%,-6.79%,Ok,0.94%
+LH,Healthcare | Diagnostics Research | USA,-0.91%,2.41%,Ok,3.16%
+HSIC,Healthcare | Medical Distribution | USA,4.10%,7.24%,Ok,-6.57%
+EPAM,Technology | Information Technology Services | USA,3.80%,6.84%,Perfect,-5.60%
+PBF,Energy | Oil Gas Refining Marketing | USA,0.44%,6.43%,Perfect,7.56%
+MTRN,Basic Materials | Other Industrial Metals Mining | USA,-0.56%,0.52%,Ok,24.12%
+ALKS,Healthcare | Biotechnology | Ireland,-2.94%,1.22%,0.19,4.41%
+NMRK,Real Estate | Real Estate Services | USA,2.25%,5.43%,Ok,-4.27%
+CEG,Utilities | Utilities - Renewable | USA,1.88%,-0.17%,-0.281,-0.44%
+DDOG,Technology | Software - Application | USA,14.44%,19.25%,-0.083,-7.04%
+WST,Healthcare | Medical Instruments Supplies | USA,4.61%,11.65%,Ok,14.54%
+POOL,Consumer Cyclical | Leisure | USA,2.02%,12.26%,Good,1.33%
+PARA,Communication Services | Entertainment | USA,9.73%,22.91%,Bad,-4.24%
+RS,Basic Materials | Steel | USA,3.40%,9.07%,Good,4.14%
+TOST,Technology | Software - Infrastructure | USA,14.66%,29.72%,Ok,-22.84%
+H,Consumer Cyclical | Lodging | USA,6.12%,15.23%,Perfect,-0.21%
+WSO,Industrials | Industrial Distribution | USA,6.71%,13.33%,Ok,5.36%
+USFD,Consumer Defensive | Food Distribution | USA,-0.80%,2.02%,Ok,3.60%
+OGN,Healthcare | Drug Manufacturers - General | USA,-3.27%,0.54%,Good,-15.00%
+DNB,Financial | Financial Data Stock Exchanges | USA,0.78%,6.76%,Ok,-16.12%
+RCM,Healthcare | Health Information Services | USA,2.66%,16.56%,Bad,2.53%
+DTM,Energy | Oil Gas Midstream | USA,1.35%,-0.41%,Ok,-4.20%
+VC,Consumer Cyclical | Auto Parts | USA,4.44%,10.72%,Perfect,4.42%
+FOCS,Financial | Capital Markets | USA,6.82%,20.04%,Ok,0.02%
+VNT,Technology | Scientific Technical Instruments | USA,4.54%,13.74%,Ok,9.63%
+SYNH,Healthcare | Diagnostics Research | USA,-0.67%,1.07%,Ok,9.19%
+ALE,Utilities | Utilities - Diversified | USA,-5.14%,-8.00%,Bad,2.22%
+STNG,Energy | Oil Gas Midstream | Monaco,19.59%,17.21%,Good,3.54%
+LXP,Real Estate | REIT - Diversified | USA,-0.56%,4.34%,Perfect,-1.32%
+DOCN,Technology | Software - Infrastructure | USA,12.32%,18.21%,Perfect,7.82%
+BPMC,Healthcare | Biotechnology | USA,-4.49%,-4.29%,Ok,1.54%
+CBZ,Industrials | Specialty Business Services | USA,0.28%,0.06%,Good,-1.36%
+SCL,Basic Materials | Specialty Chemicals | USA,-0.34%,0.25%,Perfect,-4.97%
+BLMN,Consumer Cyclical | Restaurants | USA,2.96%,10.64%,Ok,8.16%
+GVA,Industrials | Engineering Construction | USA,-0.20%,8.50%,Bad,4.68%
+IRWD,Healthcare | Drug Manufacturers - Specialty Generic | USA,-1.39%,-4.77%,Bad,1.34%
+DNOW,Energy | Oil Gas Equipment Services | USA,2.64%,7.64%,Perfect,-1.36%
+DCO,Industrials | Aerospace Defense | USA,3.83%,10.45%,Ok,-6.16%
+KELYA,Industrials | Staffing Employment Services | USA,2.64%,6.74%,Perfect,-11.43%
+BBGI,Communication Services | Broadcasting | USA,6.15%,18.05%,0.595,-4.00%
+DE,Industrials | Farm Heavy Construction Machinery | USA,-2.54%,-5.28%,Ok,7.53%
+CNP,Utilities | Utilities - Regulated Gas | USA,-2.06%,-3.60%,Ok,0.55%
+AN,Consumer Cyclical | Auto Truck Dealerships | USA,10.86%,19.92%,Ok,11.35%
+CRBG,Financial | Asset Management | USA,-3.51%,-0.17%,Ok,0.58%
+B,Industrials | Specialty Industrial Machinery | USA,-1.60%,2.84%,Good,-0.46%
+MD,Healthcare | Medical Care Facilities | USA,-1.31%,-1.34%,Ok,10.88%
+ASIX,Basic Materials | Chemicals | USA,-2.07%,2.33%,Good,0.81%
+COWN,Financial | Capital Markets | USA,0.14%,0.50%,Perfect,0.03%
+WMT,Consumer Defensive | Discount Stores | USA,2.43%,1.71%,Ok,0.61%
+HD,Consumer Cyclical | Home Improvement Retail | USA,-1.03%,-1.07%,Ok,-7.06%
+MDT,Healthcare | Medical Devices | Ireland,1.06%,5.14%,Ok,0.81%
+HUN,Basic Materials | Chemicals | USA,-3.54%,2.41%,Good,-5.94%
+TRN,Industrials | Railroads | USA,1.68%,-0.81%,Bad,-8.10%
+ARNC,Industrials | Metal Fabrication | USA,2.10%,6.14%,Bad,-8.17%
+TAP,Consumer Defensive | Beverages - Brewers | USA,-0.03%,0.78%,Bad,3.13%
+IR,Industrials | Specialty Industrial Machinery | USA,1.95%,4.86%,Ok,-2.08%
+HSBC,Financial | Banks - Diversified | United Kingdom,1.33%,9.61%,Bad,4.55%
+DAN,Consumer Cyclical | Auto Parts | USA,4.06%,11.36%,0.632,-17.61%
+WLK,Basic Materials | Specialty Chemicals | USA,1.21%,8.91%,Ok,-6.44%
+FLR,Industrials | Engineering Construction | USA,0.82%,4.25%,0.528,-0.19%
+PEG,Utilities | Utilities - Regulated Electric | USA,1.91%,1.71%,Ok,-1.74%
+LPX,Industrials | Building Products Equipment | USA,-3.40%,1.03%,Ok,-12.45%
+EXPD,Industrials | Integrated Freight Logistics | USA,0.01%,1.88%,Perfect,-5.57%
+NPO,Industrials | Specialty Industrial Machinery | USA,2.26%,5.16%,Perfect,-9.66%
+CEQP,Energy | Oil Gas Midstream | USA,-2.63%,-3.57%,Bad,-1.69%
+ESPR,Healthcare | Drug Manufacturers - Specialty Generic | USA,-3.54%,-5.21%,Bad,-5.57%
+BCRX,Healthcare | Biotechnology | USA,-2.71%,-4.74%,Bad,-15.29%
+ELAN,Healthcare | Drug Manufacturers - Specialty Generic | USA,-2.78%,1.95%,Perfect,-11.50%
+LECO,Industrials | Tools Accessories | USA,4.87%,12.79%,Good,-7.35%
+MIDD,Industrials | Specialty Industrial Machinery | USA,0.47%,7.03%,Bad,-0.75%
+AWI,Industrials | Building Products Equipment | USA,3.40%,9.71%,Bad,-4.14%
+JBT,Industrials | Specialty Industrial Machinery | USA,3.62%,13.20%,Ok,-5.46%
+WD,Financial | Mortgage Finance | USA,-2.29%,5.62%,Bad,-6.27%
+HRMY,Healthcare | Biotechnology | USA,1.38%,-5.26%,Perfect,-11.08%
+ETRN,Energy | Oil Gas Midstream | USA,-6.83%,-6.97%,0.482,-6.01%
+OLK,Healthcare | Diagnostics Research | Sweden,7.44%,0.90%,0.55,1.40%
+LGIH,Consumer Cyclical | Residential Construction | USA,-0.45%,8.37%,Ok,-8.43%
+TPH,Consumer Cyclical | Residential Construction | USA,0.84%,9.32%,Perfect,3.68%
+DRH,Real Estate | REIT - Hotel Motel | USA,-6.56%,-0.37%,0.493,0.11%
+DFIN,Financial | Capital Markets | USA,5.33%,17.70%,Bad,-20.66%
+AVNS,Healthcare | Medical Devices | USA,-1.68%,5.19%,Ok,-3.14%
+NXRT,Real Estate | REIT - Residential | USA,-1.98%,5.01%,0.345,2.30%
+SPNS,Technology | Software - Application | Israel,-3.69%,5.87%,Ok,-5.35%
+JELD,Industrials | Building Products Equipment | USA,1.63%,14.05%,Bad,1.17%
+BRSP,Real Estate | REIT - Diversified | USA,-1.67%,4.00%,Ok,-3.68%
+SOHU,Communication Services | Electronic Gaming Multimedia | China,-2.49%,2.88%,0.116,-2.64%
+TCMD,Healthcare | Medical Devices | USA,9.82%,15.28%,Perfect,-7.56%
+VNTR,Basic Materials | Specialty Chemicals | United Kingdom,5.85%,11.68%,-2.714,-6.48%
+IQ,Communication Services | Entertainment | China,4.40%,26.33%,0.653,1.10%
+BIDU,Communication Services | Internet Content Information | China,-2.27%,7.46%,Perfect,-2.63%
+TJX,Consumer Cyclical | Apparel Retail | USA,-2.50%,-1.67%,Ok,-1.73%
+EDIT,Healthcare | Biotechnology | USA,-8.31%,-2.33%,Bad,6.21%
+WIX,Technology | Software - Infrastructure | Israel,-8.22%,-2.62%,Bad,12.40%
+SHEN,Communication Services | Telecom Services | USA,-1.80%,4.69%,0.154,5.51%
+GRMN,Technology | Scientific Technical Instruments | Switzerland,-4.51%,-2.34%,Ok,4.09%
+DOC,Real Estate | REIT - Healthcare Facilities | USA,-2.13%,0.98%,0.491,-2.94%
+OSTK,Consumer Cyclical | Internet Retail | USA,-7.21%,-1.33%,Bad,-2.52%
+PGTI,Industrials | Building Products Equipment | USA,-4.32%,4.59%,Good,-0.91%
+IONS,Healthcare | Biotechnology | USA,-3.61%,-2.04%,0.098,-3.74%
+WING,Consumer Cyclical | Restaurants | USA,2.96%,8.92%,Ok,7.70%
+CRMT,Consumer Cyclical | Auto Truck Dealerships | USA,-1.38%,10.81%,Bad,-10.90%
+TRGP,Energy | Oil Gas Midstream | USA,-2.46%,-0.24%,Bad,3.10%
+HEES,Industrials | Rental Leasing Services | USA,-1.57%,4.06%,Perfect,-0.50%
+SSRM,Basic Materials | Gold | USA,-14.04%,-14.42%,Good,-0.44%
+RGEN,Healthcare | Medical Instruments Supplies | USA,-6.24%,-0.13%,Perfect,-4.51%
+NI,Utilities | Utilities - Regulated Gas | USA,-1.08%,-1.74%,Ok,2.45%
+EVBG,Technology | Software - Application | USA,3.95%,10.35%,0.291,-0.85%
+BRY,Energy | Oil Gas E P | USA,-3.95%,3.56%,Ok,9.42%
+CRL,Healthcare | Diagnostics Research | USA,-2.25%,4.63%,Ok,-10.06%
+UTHR,Healthcare | Biotechnology | USA,-0.78%,-4.05%,Ok,-4.51%
+ALLE,Industrials | Security Protection Services | Ireland,-2.52%,2.25%,Ok,-1.63%
+VRT,Industrials | Electrical Equipment Parts | USA,1.61%,7.08%,0.674,1.70%
+GIL,Consumer Cyclical | Apparel Manufacturing | Canada,-4.90%,-1.90%,Perfect,5.41%
+CERE,Healthcare | Biotechnology | USA,-7.35%,-1.53%,Ok,-13.77%
+DRVN,Consumer Cyclical | Auto Truck Dealerships | USA,-2.76%,-0.49%,Good,-0.68%
+IART,Healthcare | Medical Devices | USA,-2.21%,-0.73%,Ok,-1.16%
+TNL,Consumer Cyclical | Travel Services | USA,-4.52%,2.55%,Ok,1.08%
+IBP,Consumer Cyclical | Residential Construction | USA,-5.31%,5.09%,Good,7.33%
+AVA,Utilities | Utilities - Diversified | USA,0.11%,-3.26%,Bad,2.68%
+LIVN,Healthcare | Medical Devices | United Kingdom,-2.05%,-1.69%,Ok,-10.92%
+BCO,Industrials | Security Protection Services | USA,-3.20%,3.08%,Good,12.57%
+THRM,Consumer Cyclical | Auto Parts | USA,-3.45%,-0.17%,Good,-6.85%
+SHO,Real Estate | REIT - Hotel Motel | USA,-5.40%,-0.75%,Perfect,3.65%
+CSTM,Basic Materials | Aluminum | France,-4.26%,4.90%,Perfect,13.50%
+ROCK,Industrials | Building Products Equipment | USA,-3.17%,4.90%,Ok,0.40%
+FVRR,Communication Services | Internet Content Information | Israel,-4.88%,9.92%,Ok,18.85%
+WWW,Consumer Cyclical | Footwear Accessories | USA,-2.01%,16.53%,Bad,6.32%
+PRG,Industrials | Rental Leasing Services | USA,0.67%,14.08%,Bad,9.08%
+OSW,Consumer Cyclical | Leisure | Bahamas,0.10%,4.55%,0.077,-0.37%
+SMP,Consumer Cyclical | Auto Parts | USA,-0.64%,6.01%,Ok,2.21%
+ECC,Financial | Closed-End Fund - Debt | USA,-0.21%,1.68%,Bad,2.22%
+DSX,Industrials | Marine Shipping | Greece,3.86%,8.81%,Ok,8.61%
+KLTR,Technology | Software - Infrastructure | USA,-2.26%,4.52%,Ok,-1.99%
+BABA,Consumer Cyclical | Internet Retail | China,-12.54%,-7.97%,Perfect,-0.65%
+BHC,Healthcare | Drug Manufacturers - Specialty Generic | Canada,7.02%,14.31%,Bad,14.00%
+PCG,Utilities | Utilities - Regulated Electric | USA,-1.05%,-1.92%,Ok,-1.55%
+IRM,Real Estate | REIT - Specialty | USA,-5.98%,-3.60%,0.545,4.23%
+RCII,Industrials | Rental Leasing Services | USA,-1.56%,7.39%,Bad,-1.07%
+AEP,Utilities | Utilities - Regulated Electric | USA,-1.28%,-3.47%,Ok,-0.12%
+GNL,Real Estate | REIT - Diversified | USA,-4.20%,0.80%,0,3.08%
+AMT,Real Estate | REIT - Specialty | USA,-8.59%,-8.53%,0.681,1.34%
+MPW,Real Estate | REIT - Healthcare Facilities | USA,-3.37%,-0.74%,Good,-8.69%
+PLNT,Consumer Cyclical | Leisure | USA,-3.36%,-1.31%,Ok,5.28%
+VCEL,Healthcare | Biotechnology | USA,-2.02%,5.56%,Perfect,7.29%
+NEO,Healthcare | Diagnostics Research | USA,8.11%,19.06%,Bad,24.57%
+PLYM,Real Estate | REIT - Industrial | USA,-4.28%,0.97%,-0.449,4.79%
+CWEN,Utilities | Utilities - Renewable | USA,-3.46%,-2.95%,-7.018,-2.78%
+NEM,Basic Materials | Gold | USA,-11.22%,-10.93%,Bad,0.07%
+LNG,Energy | Oil Gas Midstream | USA,-0.97%,-2.39%,Perfect,9.44%
+DPZ,Consumer Cyclical | Restaurants | USA,-1.61%,-0.96%,Bad,-11.65%
+VIPS,Consumer Cyclical | Internet Retail | China,-8.53%,-6.07%,Good,0.37%
+W,Consumer Cyclical | Internet Retail | USA,-14.61%,7.63%,Ok,-23.05%
+NTES,Communication Services | Electronic Gaming Multimedia | China,-3.07%,4.75%,Perfect,-3.67%
+NICE,Technology | Software - Application | Israel,-0.90%,4.92%,Bad,-2.55%
+YETI,Consumer Cyclical | Leisure | USA,-9.03%,-7.81%,Ok,-1.08%
+KDP,Consumer Defensive | Beverages - Non-Alcoholic | USA,1.56%,0.07%,Ok,0.92%
+AG,Basic Materials | Silver | Canada,-8.81%,-15.49%,-0.733,-2.30%
+DISH,Communication Services | Telecom Services | USA,-8.39%,-9.48%,Ok,5.20%
+AAWW,Industrials | Airports Air Services | USA,-0.27%,0.33%,Bad,-0.04%
+DTE,Utilities | Utilities - Regulated Electric | USA,-0.94%,-2.91%,Ok,-0.43%
+GPC,Consumer Cyclical | Specialty Retail | USA,1.60%,0.90%,Ok,3.36%
+RWLK,Healthcare | Medical Devices | Israel,-5.51%,-3.53%,Perfect,-2.98%
+MFA,Real Estate | REIT - Mortgage | USA,-6.95%,-3.62%,-1.137,2.63%
+PZZA,Consumer Cyclical | Restaurants | USA,1.08%,6.65%,Bad,-6.11%
+MRNA,Healthcare | Biotechnology | USA,-10.03%,-13.98%,Perfect,-6.70%
+NTLA,Healthcare | Biotechnology | USA,-5.70%,1.15%,Perfect,0.08%
+ALNY,Healthcare | Biotechnology | USA,-9.93%,-12.10%,Perfect,-2.42%
+CBRE,Real Estate | Real Estate Services | USA,-0.51%,4.46%,Good,1.06%
+LKQ,Consumer Cyclical | Auto Parts | USA,-1.20%,1.63%,Ok,-0.72%
+CIO,Real Estate | REIT - Office | USA,-7.76%,-3.65%,Perfect,-0.23%
+NVCR,Healthcare | Medical Instruments Supplies | USA,-7.95%,-3.86%,Ok,-4.54%
+EME,Industrials | Engineering Construction | USA,-0.66%,-0.79%,Ok,10.63%
+TNK,Energy | Oil Gas Midstream | Canada,10.68%,18.49%,Perfect,13.28%
+WOW,Communication Services | Telecom Services | USA,-0.17%,9.82%,0.286,6.80%
+PWR,Industrials | Engineering Construction | USA,-2.52%,0.63%,Ok,7.56%
+CLDT,Real Estate | REIT - Hotel Motel | USA,-4.00%,0.66%,-0.156,-1.22%
+SRCL,Industrials | Waste Management | USA,1.48%,5.21%,Bad,-11.47%
+FCN,Industrials | Consulting Services | USA,1.03%,2.16%,Ok,10.47%
+AGIO,Healthcare | Biotechnology | USA,-9.28%,-8.22%,Bad,-1.73%
+TFX,Healthcare | Medical Instruments Supplies | USA,-2.70%,-2.63%,Ok,-2.07%
+BBWI,Consumer Cyclical | Specialty Retail | USA,-6.59%,-4.85%,Good,3.99%
+BLD,Industrials | Engineering Construction | USA,-0.15%,10.40%,Good,3.64%
+FTI,Energy | Oil Gas Equipment Services | United Kingdom,-3.65%,3.74%,-0.909,6.35%
+EXLS,Technology | Information Technology Services | USA,-0.79%,-0.95%,Good,1.10%
+OPCH,Healthcare | Medical Care Facilities | USA,0.44%,-1.23%,Ok,10.53%
+LNTH,Healthcare | Drug Manufacturers - Specialty Generic | USA,-0.01%,7.02%,Perfect,20.15%
+DEN,Energy | Oil Gas E P | USA,-4.62%,-5.01%,Ok,-1.43%
+ENOV,Industrials | Specialty Industrial Machinery | USA,-2.00%,5.12%,Good,-6.45%
+CCOI,Communication Services | Telecom Services | USA,-2.97%,4.70%,0.435,-5.63%
+NOMD,Consumer Defensive | Packaged Foods | United Kingdom,-1.05%,0.80%,Good,-3.54%
+INSM,Healthcare | Biotechnology | USA,0.32%,4.78%,Ok,-2.49%
+SHOO,Consumer Cyclical | Footwear Accessories | USA,-4.43%,0.08%,Perfect,6.35%
+AMR,Basic Materials | Coking Coal | USA,0.06%,5.17%,Bad,-2.20%
+PRMW,Consumer Defensive | Beverages - Non-Alcoholic | USA,3.17%,4.55%,Bad,-1.84%
+TAC,Utilities | Utilities - Independent Power Producers | Canada,-4.66%,-3.91%,0.449,-3.04%
+XPRO,Energy | Oil Gas Equipment Services | USA,-1.15%,8.27%,-0.476,4.10%
+MGPI,Consumer Defensive | Beverages - Wineries Distilleries | USA,0.01%,-6.36%,Perfect,10.47%
+KYMR,Healthcare | Biotechnology | USA,-10.35%,0.82%,Perfect,5.17%
+NABL,Technology | Information Technology Services | USA,-0.30%,-0.58%,Bad,15.11%
+HLMN,Industrials | Tools Accessories | USA,-5.94%,5.35%,Perfect,-0.45%
+LAUR,Consumer Defensive | Education Training Services | USA,-3.87%,1.31%,0.224,15.50%
+COMM,Technology | Communication Equipment | USA,-10.75%,-7.77%,Perfect,16.58%
+SATS,Technology | Communication Equipment | USA,-2.67%,2.16%,Bad,13.50%
+MODV,Healthcare | Medical Care Facilities | USA,-4.37%,2.05%,Perfect,3.73%
+TRS,Consumer Cyclical | Packaging Containers | USA,-0.75%,3.92%,Bad,-2.54%
+NKLA,Industrials | Farm Heavy Construction Machinery | USA,-9.79%,-4.90%,Bad,-5.58%
+CARS,Consumer Cyclical | Auto Truck Dealerships | USA,1.74%,13.42%,0.03,12.54%
+SPTN,Consumer Defensive | Food Distribution | USA,-0.23%,0.37%,Good,-15.60%
+SHYF,Industrials | Farm Heavy Construction Machinery | USA,-6.03%,4.98%,Perfect,-14.06%
+KRP,Energy | Oil Gas E P | USA,-8.58%,-9.86%,Perfect,9.12%
+RSKD,Technology | Software - Application | Israel,0.13%,11.83%,Bad,-6.19%
+HOUS,Real Estate | Real Estate Services | USA,-13.41%,-4.77%,Bad,-12.04%
+THRY,Communication Services | Internet Content Information | USA,5.06%,18.20%,Perfect,-0.33%
+MYTE,Consumer Cyclical | Luxury Goods | Germany,-10.46%,-6.50%,Good,-6.72%
+BAND,Technology | Software - Infrastructure | USA,-5.09%,-0.85%,0.131,-26.98%
+RUTH,Consumer Cyclical | Restaurants | USA,5.57%,8.87%,Perfect,-0.05%
+CYD,Industrials | Specialty Industrial Machinery | Singapore,-3.05%,5.88%,Good,1.69%
+NREF,Real Estate | REIT - Mortgage | USA,-4.59%,1.49%,Good,2.85%
+NAUT,Healthcare | Biotechnology | USA,-0.70%,7.11%,Bad,-7.00%
+LAZY,Consumer Cyclical | Auto Truck Dealerships | USA,-1.35%,-0.30%,Bad,-6.27%
+CTG,Technology | Information Technology Services | USA,-1.45%,-0.07%,Good,4.02%
+CMLS,Communication Services | Broadcasting | USA,-4.06%,-7.38%,Bad,0.32%
+IMUX,Healthcare | Biotechnology | USA,-14.27%,10.59%,Ok,4.23%
+UNIT,Real Estate | REIT - Specialty | USA,-7.33%,-4.13%,-0.056,-2.61%
+GTN,Communication Services | Broadcasting | USA,1.92%,7.71%,Ok,-4.16%
+CM,Financial | Banks - Diversified | Canada,-1.04%,4.29%,Ok,2.14%
+SLCA,Energy | Oil Gas Equipment Services | USA,-7.55%,-8.18%,Perfect,11.94%
+IEP,Industrials | Conglomerates | USA,-0.05%,2.58%,-2.618,0.33%
+ACMR,Technology | Semiconductor Equipment Materials | USA,-7.10%,9.22%,Perfect,-0.60%
+HEP,Energy | Oil Gas Midstream | USA,-2.86%,-1.95%,Bad,0.16%
+SSP,Communication Services | Broadcasting | USA,-1.54%,3.48%,Bad,-13.48%
+DINO,Energy | Oil Gas Refining Marketing | USA,-2.37%,0.94%,Perfect,-5.61%
+FYBR,Communication Services | Telecom Services | USA,-3.62%,2.27%,Perfect,-6.07%
+GTLS,Industrials | Specialty Industrial Machinery | USA,-1.53%,4.38%,Ok,6.07%
+BCPC,Basic Materials | Specialty Chemicals | USA,-1.47%,3.15%,Ok,-0.87%
+PNM,Utilities | Utilities - Regulated Electric | USA,0.03%,0.27%,Good,0.04%
+CRI,Consumer Cyclical | Apparel Retail | USA,-7.65%,-5.28%,Ok,0.14%
+BRC,Industrials | Security Protection Services | USA,-1.18%,5.05%,Ok,3.37%
+DBRG,Real Estate | Real Estate Services | USA,-4.11%,8.02%,-9.077,-11.20%
+NWN,Utilities | Utilities - Regulated Gas | USA,-2.73%,-1.18%,Ok,-1.18%
+CNK,Communication Services | Entertainment | USA,8.14%,20.47%,Bad,1.38%
+TBLA,Communication Services | Internet Content Information | USA,2.27%,19.45%,-0.042,-19.12%
+TPB,Consumer Defensive | Tobacco | USA,-4.58%,-0.46%,Perfect,10.96%
+FMX,Consumer Defensive | Beverages - Brewers | Mexico,8.03%,12.90%,Bad,-1.03%
+HSC,Industrials | Waste Management | USA,-1.50%,9.86%,Perfect,4.34%
+BGCP,Financial | Capital Markets | USA,-3.48%,0.82%,Ok,13.13%
+GLP,Energy | Oil Gas Midstream | USA,-4.40%,1.15%,Perfect,2.17%
+AES,Utilities | Utilities - Diversified | USA,-3.87%,-7.11%,Ok,-1.74%
+AXSM,Healthcare | Biotechnology | USA,-8.67%,-12.93%,Bad,4.96%
+TREE,Financial | Financial Conglomerates | USA,-11.70%,18.70%,Bad,-13.56%
+NAT,Industrials | Marine Shipping | Bermuda,13.08%,18.10%,Bad,11.84%
+TGNA,Communication Services | Broadcasting | USA,7.63%,7.59%,Ok,-18.91%
+KOP,Basic Materials | Specialty Chemicals | USA,0.93%,8.01%,Ok,2.50%
+PNW,Utilities | Utilities - Regulated Electric | USA,-1.55%,-2.90%,Good,0.99%
+CGEN,Healthcare | Biotechnology | Israel,-12.10%,-12.43%,Bad,2.17%
+VTRS,Healthcare | Drug Manufacturers - Specialty Generic | USA,-3.04%,-0.63%,Ok,-2.69%
+BXSL,Financial | Asset Management | USA,3.06%,7.24%,Ok,2.73%
+FRPT,Consumer Defensive | Packaged Foods | USA,-4.65%,3.00%,Perfect,1.69%
+ITRI,Technology | Scientific Technical Instruments | USA,-4.57%,-0.65%,Perfect,-5.29%
+FSR,Consumer Cyclical | Auto Manufacturers | USA,-21.64%,-21.16%,Ok,30.28%
+FREY,Industrials | Electrical Equipment Parts | Luxembourg,-6.29%,-11.68%,Bad,13.20%
+FUBO,Communication Services | Broadcasting | USA,-5.81%,5.56%,Good,-13.79%
+LINC,Consumer Defensive | Education Training Services | USA,-6.59%,-1.64%,Perfect,-3.00%
